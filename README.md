@@ -1,14 +1,30 @@
-# inicial.BarbeariaAlura
+# 🎭 Culturama – Projeto Front-End Responsivo
 
-Barbearia – Projeto Front‑end
-Criado como parte de um curso da Alura, esse site de barbearia apresenta:
+Este projeto foi desenvolvido como parte do curso da **Alura** para praticar **CSS Grid** e **Flexbox**, com o objetivo de criar uma landing page moderna, acessível e adaptável a diferentes telas.  
+O site promove eventos culturais de forma dinâmica, leve e com design pensado para o usuário.
 
-Design responsivo e elegante, com imagens, banners e elementos visuais que refletem estética moderna.
+---
 
-Páginas dedicadas: home com apresentação da barbearia; sessão de produtos/serviços; e página de contato com formulário funcional.
+## ✨ Tecnologias Utilizadas
 
-Boas práticas semânticas, usando HTML5 moderno (header, section, article etc.) e CSS modular.
+- ✅ HTML5
+- ✅ CSS3
+- ✅ Flexbox
+- ✅ CSS Grid
 
-Estrutura organizada com reset de estilo, arquivos CSS separados e layout fluido — fácil de manter e evoluir.
+---
 
-Ideal como exemplo de landing page para pequenos negócios (como barbearias), demonstrando capacidade de transformar uma identidade visual em uma presença digital profissional.
+## 💡 Funcionalidades e Características
+
+- Layout **100% responsivo**
+- Estrutura organizada com **CSS Grid** para seções
+- Uso de **Flexbox** para alinhamento de conteúdo
+- Design limpo e leve, com fontes legíveis e boa paleta de cores
+- Arquivos separados para fácil manutenção e entendimento
+
+---
+
+## 🚀 Como executar o projeto
+
+1. Clone este repositório
+2. Abra `index.html` no navegador
